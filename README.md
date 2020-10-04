@@ -19,6 +19,6 @@ To see an overview of our analyses, take a look at pattern_finding.ipynb.
         |__ pattern_finding.ipynb --> step by step breakdown of the analysis in the paper.
         |__ baselines.ipynb --> notebook for evaluating baselines.
         |__ lstm_train/ --> folder for our LSTM model. Import the train method from train.py, and follow steps in pattern_finding.ipynb to train this.
-        |__editing_utils.py/ --> utilities to handle edits made to requests
+        |__ editing_utils.py/ --> utilities to handle edits made to requests
         
 ```
