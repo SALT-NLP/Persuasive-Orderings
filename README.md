@@ -3,7 +3,7 @@ This repo contains code for the following paper:
 
 *Omar Shaikh, Jiaao Chen, Jon Saad-Falcon, Duen Horng (Polo) Chau, Diyi Yang*: Examining the Ordering of Rhetorical Strategies in Persuasive Requests  (EMNLP (Findings) 2020)
 
-To see an overview of our analyses, take a look at pattern_finding.ipynb. Currently, our dataset is not for public release -- we aim to release it in the near future, however.  
+To see an overview of our analyses, take a look at pattern_finding.ipynb. 
 
 ### Requirements
 * Python 3.6 or higher
